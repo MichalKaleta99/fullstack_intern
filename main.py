@@ -10,4 +10,4 @@ def find_number(arr):
             print(num)
             break
 if __name__ == "__main__":
-    find_number([166, 4, 1722, 22, 14, 15, -20])
+    find_number([])
